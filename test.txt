@@ -1,1 +1,2 @@
 testiranje echoa
+testiranje git reverta
