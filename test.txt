@@ -1,3 +1,0 @@
-testiranje echoa
-testiranje git reverta
-druga linija
